@@ -1,5 +1,5 @@
 # Feel_Beatz
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://share.streamlit.io/andfanilo/streamlit-css-button/example/app.py](https://corrosivelogic-feel-beatz-home-xgi8v2.streamlit.app/))
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://corrosivelogic-feel-beatz-home-xgi8v2.streamlit.app/)
 
 Project Submission for Nebula|MDG
 
