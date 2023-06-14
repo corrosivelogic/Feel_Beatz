@@ -1,5 +1,5 @@
 # Feel_Beatz
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/andfanilo/streamlit-css-button/example/app.py)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://share.streamlit.io/andfanilo/streamlit-css-button/example/app.py](https://corrosivelogic-feel-beatz-home-xgi8v2.streamlit.app/))
 
 Project Submission for Nebula|MDG
 
@@ -23,4 +23,4 @@ The dataset used for the model: https://www.kaggle.com/datasets/ejlok1/toronto-e
 
 ## App Deployment 
 
-The App has been deployed on the streamlit community servers and can be accessed on the following url : 
+The App has been deployed on the streamlit community servers and can be accessed on the following url : https://corrosivelogic-feel-beatz-home-xgi8v2.streamlit.app/ 
