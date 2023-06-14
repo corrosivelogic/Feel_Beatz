@@ -9,4 +9,4 @@ Pillow==9.5.0
 Pillow==9.5.0
 streamlit==1.23.1
 streamlit_webrtc==0.45.1
-cv2
+opencv-contrib-python-headless
