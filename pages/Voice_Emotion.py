@@ -24,7 +24,7 @@ st.markdown(
     </style>
     """,
     unsafe_allow_html=True)
-st.markdown('<h1 class="centered-heading">Feal Beatz</h1>', unsafe_allow_html=True)
+st.markdown('<h1 class="centered-heading">Feel Beatz</h1>', unsafe_allow_html=True)
 
 col1, padding, col2 = st.columns((10,2,10))
 with col1:
