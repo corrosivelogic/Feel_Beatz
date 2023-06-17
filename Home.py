@@ -17,7 +17,7 @@ if 'page' not in st.session_state:
     
 
 # Display the centered heading
-st.markdown('<h1 class="centered-heading">Feal Beatz</h1>', unsafe_allow_html=True)
+st.markdown('<h1 class="centered-heading">Feel Beatz</h1>', unsafe_allow_html=True)
 
 if st.session_state['page'] == 'home':
     st.markdown(
