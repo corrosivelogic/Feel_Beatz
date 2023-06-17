@@ -26,7 +26,7 @@ st.markdown(
     </style>
     """,
     unsafe_allow_html=True)
-st.markdown('<h1 class="centered-heading">Feal Beatz</h1>', unsafe_allow_html=True)
+st.markdown('<h1 class="centered-heading">Feel Beatz</h1>', unsafe_allow_html=True)
 def video_frame_callback(frame):
         frm = frame.to_ndarray(format="bgr24")
         img_gray = cv2.cvtColor(frm, cv2.COLOR_BGR2GRAY)
