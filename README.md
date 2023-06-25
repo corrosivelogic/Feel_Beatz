@@ -34,3 +34,12 @@ Several Problems were encountered with the streamlit library as it's a relativel
 1. To develop a  UserAnalytics feature that can graphically show the users the change in moods overa a period of time and songs prefferd.
 2. To develop a classifier to self classify songs emotions.
 3. Add a recommendation feature to recommend songs based on past songs, moods and include Topic Modelling.
+
+## References 
+
+* https://arxiv.org/pdf/2109.04081.pdf
+* https://arxiv.org/pdf/1904.06022v1.pdf
+* https://arxiv.org/ftp/arxiv/papers/1906/1906.05681.pdf
+* https://www.researchgate.net/publication/261250781_Emotion_Recognition_with_Image_Processing_and_Neural_Networks
+* https://towardsdatascience.com/the-ultimate-guide-to-emotion-recognition-from-facial-expressions-using-python-64e58d4324ff
+
